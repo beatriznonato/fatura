@@ -9,7 +9,7 @@ Se a resposta for 's' repetir a operação. Só parar quando a resposta for 'n' 
 Dica: Considere que só é possivel comprar uma unidade de cada produto por vez.
 ```
 
-<h1> Estrutura de While e For </h1>
+<h1> Estrutura FOR e WHILE </h1>
 
 <h4> loop for com range </h4>
 
